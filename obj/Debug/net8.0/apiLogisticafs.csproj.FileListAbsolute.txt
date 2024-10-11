@@ -1,0 +1,14 @@
+G:\Proyectos\logisticafs\Logisticafs\apiLogisticafs\bin\Debug\net8.0\apiLogisticafs.deps.json
+G:\Proyectos\logisticafs\Logisticafs\apiLogisticafs\bin\Debug\net8.0\apiLogisticafs.runtimeconfig.json
+G:\Proyectos\logisticafs\Logisticafs\apiLogisticafs\bin\Debug\net8.0\apiLogisticafs.dll
+G:\Proyectos\logisticafs\Logisticafs\apiLogisticafs\bin\Debug\net8.0\apiLogisticafs.pdb
+G:\Proyectos\logisticafs\Logisticafs\apiLogisticafs\obj\Debug\net8.0\apiLogisticafs.csproj.AssemblyReference.cache
+G:\Proyectos\logisticafs\Logisticafs\apiLogisticafs\obj\Debug\net8.0\apiLogisticafs.GeneratedMSBuildEditorConfig.editorconfig
+G:\Proyectos\logisticafs\Logisticafs\apiLogisticafs\obj\Debug\net8.0\apiLogisticafs.AssemblyInfoInputs.cache
+G:\Proyectos\logisticafs\Logisticafs\apiLogisticafs\obj\Debug\net8.0\apiLogisticafs.AssemblyInfo.cs
+G:\Proyectos\logisticafs\Logisticafs\apiLogisticafs\obj\Debug\net8.0\apiLogisticafs.csproj.CoreCompileInputs.cache
+G:\Proyectos\logisticafs\Logisticafs\apiLogisticafs\obj\Debug\net8.0\apiLogisticafs.dll
+G:\Proyectos\logisticafs\Logisticafs\apiLogisticafs\obj\Debug\net8.0\refint\apiLogisticafs.dll
+G:\Proyectos\logisticafs\Logisticafs\apiLogisticafs\obj\Debug\net8.0\apiLogisticafs.pdb
+G:\Proyectos\logisticafs\Logisticafs\apiLogisticafs\obj\Debug\net8.0\apiLogisticafs.genruntimeconfig.cache
+G:\Proyectos\logisticafs\Logisticafs\apiLogisticafs\obj\Debug\net8.0\ref\apiLogisticafs.dll
